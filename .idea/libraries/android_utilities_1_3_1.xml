@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="android-utilities-1.3.1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.matthew-tamlin/android-utilities/1.3.1/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.matthew-tamlin/android-utilities/1.3.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.matthew-tamlin/android-utilities/1.3.1/411c17375a21d2f986a7fa671b4ec266b68ceb24/android-utilities-1.3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
